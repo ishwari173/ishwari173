@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **more animation tools into front-end**
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at my portfolio
 [https://6680fa74caa5b7d814f0dc90--repositer.netlify.app/](https://6680fa74caa5b7d814f0dc90--repositer.netlify.app/)
 
 - 📝 I regularly write articles on
