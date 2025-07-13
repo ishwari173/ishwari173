@@ -2,12 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt=coding" width="400"src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952hrdye7iyrheyitix2fqqbfdm2d96ap4a2fl9kg1n&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
     alt="">
-    ## 🏅 My Holopin Badges
-
-[![An image of @ishwari173's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishwari173)](https://holopin.io/@ishwari173)
-
----
-
 
 - 🔭 I’m currently working on **Frontend Animation projects**
 
@@ -30,6 +24,14 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/home](https://drive.google.com/drive/u/0/home)
 
 - ⚡ Fun fact **i am good at overthinking illogical thingss**
+  
+    🏅 My Holopin Badges
+
+[![An image of @ishwari173's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ishwari173)](https://holopin.io/@ishwari173)
+
+---
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
